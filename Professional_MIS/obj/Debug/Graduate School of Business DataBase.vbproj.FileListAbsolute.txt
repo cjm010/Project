@@ -1,0 +1,11 @@
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.exe
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.xml
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.pdb
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\bin\Debug\Professional_MIS.exe
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\bin\Debug\Professional_MIS.pdb
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\bin\Debug\Professional_MIS.xml
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Graduate School of Business DataBase.vbprojResolveAssemblyReference.cache
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.frmApplicationForm.resources
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.Resources.resources
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.frmSearchResults.resources
+\\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Graduate School of Business DataBase.vbproj.GenerateResource.Cache

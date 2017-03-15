@@ -1,0 +1,11 @@
+bin\Debug\Professional_MIS.exe
+bin\Debug\Professional_MIS.pdb
+bin\Debug\Professional_MIS.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Professional_MIS.Resources.resources
+obj\Debug\Graduate School of Business DataBase.vbproj.GenerateResource.Cache
+obj\Debug\Professional_MIS.exe
+obj\Debug\Professional_MIS.xml
+obj\Debug\Professional_MIS.pdb
+obj\Debug\Professional_MIS.frmApplicationForm.resources
+obj\Debug\Professional_MIS.frmSearchResults.resources
