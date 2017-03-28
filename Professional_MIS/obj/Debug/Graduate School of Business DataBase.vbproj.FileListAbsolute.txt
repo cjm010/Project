@@ -9,3 +9,20 @@
 \\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.Resources.resources
 \\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Professional_MIS.frmSearchResults.resources
 \\mydocs.uark.edu\mydocs\cjm010\Documents\ISYS 4363\Prof-MIS-Aqua\Professional_MIS\obj\Debug\Graduate School of Business DataBase.vbproj.GenerateResource.Cache
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Professional_MIS.exe
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Professional_MIS.xml
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Professional_MIS.pdb
+C:\Users\collin\Desktop\VB\Professional_MIS\bin\Debug\Professional_MIS.exe
+C:\Users\collin\Desktop\VB\Professional_MIS\bin\Debug\Professional_MIS.pdb
+C:\Users\collin\Desktop\VB\Professional_MIS\bin\Debug\Professional_MIS.xml
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Graduate School of Business DataBase.vbprojResolveAssemblyReference.cache
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Professional_MIS.frmApplicationForm.resources
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Professional_MIS.Resources.resources
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Graduate School of Business DataBase.vbproj.GenerateResource.Cache
+C:\Users\collin\Desktop\VB\Professional_MIS\obj\Debug\Professional_MIS.LoginForm.resources
+C:\Users\collin\Documents\School\Spring 17\ISYS 4363 BUSINESS PROJECT DEVELOPMENT\Updated VB 3282017\Professional_MIS\obj\Debug\Professional_MIS.exe
+C:\Users\collin\Documents\School\Spring 17\ISYS 4363 BUSINESS PROJECT DEVELOPMENT\Updated VB 3282017\Professional_MIS\obj\Debug\Professional_MIS.xml
+C:\Users\collin\Documents\School\Spring 17\ISYS 4363 BUSINESS PROJECT DEVELOPMENT\Updated VB 3282017\Professional_MIS\obj\Debug\Professional_MIS.pdb
+C:\Users\collin\Documents\School\Spring 17\ISYS 4363 BUSINESS PROJECT DEVELOPMENT\Updated VB 3282017\Application\Professional_MIS\obj\Debug\Professional_MIS.exe
+C:\Users\collin\Documents\School\Spring 17\ISYS 4363 BUSINESS PROJECT DEVELOPMENT\Updated VB 3282017\Application\Professional_MIS\obj\Debug\Professional_MIS.xml
+C:\Users\collin\Documents\School\Spring 17\ISYS 4363 BUSINESS PROJECT DEVELOPMENT\Updated VB 3282017\Application\Professional_MIS\obj\Debug\Professional_MIS.pdb
